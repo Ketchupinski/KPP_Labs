@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.CheckMenuItem?>
+<?import javafx.scene.control.ContextMenu?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.RadioMenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="210.0" prefWidth="285.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.university.kpp.ClientController">
+    <Label layoutX="-1.0" layoutY="-1.0" prefHeight="210.0" prefWidth="285.0" text="Контекстне меню">
+        <contextMenu>
+          <ContextMenu>
+              <items>
+                  <Menu mnemonicParsing="false" text="Panel">
+                      <CheckMenuItem fx:id="panelVisibleItem" mnemonicParsing="false" selected="true" text="Visible" />
+                  </Menu>
+                  <Menu mnemonicParsing="false" text="View">
+                      <Menu mnemonicParsing="false" text="Font Color">
+                          <RadioMenuItem fx:id="panelFontWindowsItem" mnemonicParsing="false" selected="true" text="Windows Font" />
+                          <RadioMenuItem fx:id="panelFontRedItem" mnemonicParsing="false" text="Red" />
+                          <RadioMenuItem fx:id="panelFontBlueItem" mnemonicParsing="false" text="Blue" />
+                          <RadioMenuItem fx:id="panelFontYellowItem" mnemonicParsing="false" text="Yellow" />
+                      </Menu>
+                      <CheckMenuItem fx:id="panelTextItem" mnemonicParsing="false" selected="true" text="Caption = Панель" />
+                  </Menu>
+                  <MenuItem fx:id="exitItem" mnemonicParsing="false" text="Exit" />
+              </items>
+          </ContextMenu>
+        </contextMenu>
+    </Label>
+</AnchorPane>

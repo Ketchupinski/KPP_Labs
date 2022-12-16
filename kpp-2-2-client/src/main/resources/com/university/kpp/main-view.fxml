@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="310.0" prefWidth="409.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.university.kpp.ClientController">
+    <CheckBox fx:id="labelCheckBox" layoutX="59.0" layoutY="112.0" mnemonicParsing="false" selected="true" text="Мітка - недоступна" />
+    <CheckBox fx:id="panelCheckBox" layoutX="59.0" layoutY="155.0" mnemonicParsing="false" selected="true" text="Панель - видима" />
+    <RadioButton fx:id="redPanelRadioButton" layoutX="241.0" layoutY="95.0" mnemonicParsing="false" text="Червона панель" />
+    <RadioButton fx:id="standardPanelRadioButton" layoutX="241.0" layoutY="138.0" mnemonicParsing="false" selected="true" text="Стандартна панель" />
+    <RadioButton fx:id="bluePanelRadioButton" layoutX="241.0" layoutY="181.0" mnemonicParsing="false" text="Синя панель" />
+    <Group layoutX="262.0" layoutY="51.0" />
+</AnchorPane>

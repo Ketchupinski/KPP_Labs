@@ -1,0 +1,15 @@
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\bin\Debug\net6.0\KPP_lab_1_2.exe
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\bin\Debug\net6.0\KPP_lab_1_2.deps.json
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\bin\Debug\net6.0\KPP_lab_1_2.runtimeconfig.json
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\bin\Debug\net6.0\KPP_lab_1_2.dll
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\bin\Debug\net6.0\KPP_lab_1_2.pdb
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\obj\Debug\net6.0\KPP_lab_1_2.csproj.AssemblyReference.cache
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\obj\Debug\net6.0\KPP_lab_1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\obj\Debug\net6.0\KPP_lab_1_2.AssemblyInfoInputs.cache
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\obj\Debug\net6.0\KPP_lab_1_2.AssemblyInfo.cs
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\obj\Debug\net6.0\KPP_lab_1_2.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\obj\Debug\net6.0\KPP_lab_1_2.dll
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\obj\Debug\net6.0\refint\KPP_lab_1_2.dll
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\obj\Debug\net6.0\KPP_lab_1_2.pdb
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\obj\Debug\net6.0\KPP_lab_1_2.genruntimeconfig.cache
+C:\Users\Arsen\source\repos\KPP_lab_1_2\KPP_lab_1_2\obj\Debug\net6.0\ref\KPP_lab_1_2.dll
